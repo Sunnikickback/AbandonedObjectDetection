@@ -1,0 +1,69 @@
+C:\Users\aanik\source\repos\AbandonedObjectDetection\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\aanik\source\repos\AbandonedObjectDetection\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\aanik\source\repos\AbandonedObjectDetection\WindowsFormsApp\obj\Debug\WindowsFormsApp.SettingsForm.resources
+C:\Users\aanik\source\repos\AbandonedObjectDetection\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\aanik\source\repos\AbandonedObjectDetection\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\aanik\source\repos\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\aanik\source\repos\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\aanik\source\repos\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\aanik\source\repos\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\ClassLibrary.dll
+C:\Users\aanik\source\repos\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\ClassLibrary.pdb
+C:\Users\aanik\source\repos\AbandonedObjectDetection\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+C:\Users\aanik\source\repos\AbandonedObjectDetection\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\aanik\source\repos\AbandonedObjectDetection\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\ClassLibrary.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\ClassLibrary.pdb
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\obj\Debug\WindowsFormsApp.CameraForm.resources
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\DirectShowLib.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\DirectShowLib.pdb
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\x64\concrt140.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\x64\cvextern.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\x64\msvcp140.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\x64\vcruntime140.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\x86\concrt140.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\x86\cvextern.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\x86\msvcp140.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\x86\vcruntime140.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\Emgu.CV.UI.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\Emgu.CV.World.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\ZedGraph.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\Emgu.CV.UI.xml
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\Emgu.CV.World.xml
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\ZedGraph.xml
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\coco.names
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\yolov3.cfg
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\yolov3.weights
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\pthreadVC2.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\opencv_world430.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\yolo_cpp_dll.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\FastYolo.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\x64\opencv_ffmpeg401_64.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\x86\opencv_ffmpeg401.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\Telegram.Bot.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\Telegram.Bot.xml
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\WindowsFormsApp\bin\Debug\MihaZupan.HttpToSocks5Proxy.dll

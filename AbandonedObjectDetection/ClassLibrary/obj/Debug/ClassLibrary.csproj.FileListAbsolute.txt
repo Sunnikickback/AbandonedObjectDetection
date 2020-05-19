@@ -1,0 +1,50 @@
+C:\Users\aanik\source\repos\AbandonedObjectDetection\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\aanik\source\repos\AbandonedObjectDetection\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aanik\source\repos\AbandonedObjectDetection\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\aanik\source\repos\AbandonedObjectDetection\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\aanik\source\repos\AbandonedObjectDetection\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\aanik\source\repos\AbandonedObjectDetection\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\x64\concrt140.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\x64\cvextern.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\x64\msvcp140.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\x64\vcruntime140.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\x86\concrt140.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\x86\cvextern.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\x86\msvcp140.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\x86\vcruntime140.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\Emgu.CV.UI.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\Emgu.CV.World.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\ZedGraph.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\Emgu.CV.UI.xml
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\Emgu.CV.World.xml
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\ZedGraph.xml
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\pthreadVC2.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\opencv_world430.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\yolo_cpp_dll.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\x64\opencv_ffmpeg401_64.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\x86\opencv_ffmpeg401.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\FastYolo.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\Telegram.Bot.dll
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aanik\Git projects\AbandonedObjectDetection\AbandonedObjectDetection\ClassLibrary\bin\Debug\Telegram.Bot.xml
